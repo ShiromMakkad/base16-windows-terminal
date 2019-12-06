@@ -1,0 +1,21 @@
+{
+  "name": "Black Metal",
+  "background":    "#000000",
+  "foreground":    "#c1c1c1",
+  "black":         "#000000",
+  "red":           "#5f8787",
+  "green":         "#dd9999",
+  "yellow":        "#a06666",
+  "blue":          "#888888",
+  "magenta":       "#999999",
+  "cyan":          "#aaaaaa",
+  "white":         "#c1c1c1",
+  "brightBlack":   "#333333",
+  "brightRed":     "#5f8787",
+  "brightGreen":   "#dd9999",
+  "brightYellow":  "#a06666",
+  "brightBlue":    "#888888",
+  "brightMagenta": "#999999",
+  "brightCyan":    "#aaaaaa",
+  "brightWhite":   "#c1c1c1"
+}

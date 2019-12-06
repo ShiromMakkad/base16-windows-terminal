@@ -1,0 +1,21 @@
+{
+  "name": "Atlas",
+  "background":    "#002635",
+  "foreground":    "#a1a19a",
+  "black":         "#002635",
+  "red":           "#ff5a67",
+  "green":         "#7fc06e",
+  "yellow":        "#ffcc1b",
+  "blue":          "#5dd7b9",
+  "magenta":       "#9a70a4",
+  "cyan":          "#14747e",
+  "white":         "#a1a19a",
+  "brightBlack":   "#6C8B91",
+  "brightRed":     "#f08e48",
+  "brightGreen":   "#00384d",
+  "brightYellow":  "#517F8D",
+  "brightBlue":    "#869696",
+  "brightMagenta": "#e6e6dc",
+  "brightCyan":    "#c43060",
+  "brightWhite":   "#fafaf8"
+}

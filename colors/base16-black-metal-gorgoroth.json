@@ -1,0 +1,21 @@
+{
+  "name": "Black Metal (Gorgoroth)",
+  "background":    "#000000",
+  "foreground":    "#c1c1c1",
+  "black":         "#000000",
+  "red":           "#5f8787",
+  "green":         "#9b8d7f",
+  "yellow":        "#8c7f70",
+  "blue":          "#888888",
+  "magenta":       "#999999",
+  "cyan":          "#aaaaaa",
+  "white":         "#c1c1c1",
+  "brightBlack":   "#333333",
+  "brightRed":     "#aaaaaa",
+  "brightGreen":   "#121212",
+  "brightYellow":  "#222222",
+  "brightBlue":    "#999999",
+  "brightMagenta": "#999999",
+  "brightCyan":    "#444444",
+  "brightWhite":   "#c1c1c1"
+}

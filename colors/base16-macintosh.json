@@ -1,0 +1,21 @@
+{
+  "name": "Macintosh",
+  "background":    "#000000",
+  "foreground":    "#c0c0c0",
+  "black":         "#000000",
+  "red":           "#dd0907",
+  "green":         "#1fb714",
+  "yellow":        "#fbf305",
+  "blue":          "#0000d3",
+  "magenta":       "#4700a5",
+  "cyan":          "#02abea",
+  "white":         "#c0c0c0",
+  "brightBlack":   "#808080",
+  "brightRed":     "#ff6403",
+  "brightGreen":   "#404040",
+  "brightYellow":  "#404040",
+  "brightBlue":    "#808080",
+  "brightMagenta": "#c0c0c0",
+  "brightCyan":    "#90713a",
+  "brightWhite":   "#ffffff"
+}

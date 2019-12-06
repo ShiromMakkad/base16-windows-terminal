@@ -1,0 +1,21 @@
+{
+  "name": "Horizon Light",
+  "background":    "#FDF0ED",
+  "foreground":    "#403C3D",
+  "black":         "#FDF0ED",
+  "red":           "#F7939B",
+  "green":         "#94E1B0",
+  "yellow":        "#FBE0D9",
+  "blue":          "#DA103F",
+  "magenta":       "#1D8991",
+  "cyan":          "#DC3318",
+  "white":         "#403C3D",
+  "brightBlack":   "#BDB3B1",
+  "brightRed":     "#F7939B",
+  "brightGreen":   "#94E1B0",
+  "brightYellow":  "#FBE0D9",
+  "brightBlue":    "#DA103F",
+  "brightMagenta": "#1D8991",
+  "brightCyan":    "#DC3318",
+  "brightWhite":   "#201C1D"
+}

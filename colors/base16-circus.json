@@ -1,0 +1,21 @@
+{
+  "name": "Circus",
+  "background":    "#191919",
+  "foreground":    "#a7a7a7",
+  "black":         "#191919",
+  "red":           "#dc657d",
+  "green":         "#84b97c",
+  "yellow":        "#c3ba63",
+  "blue":          "#639ee4",
+  "magenta":       "#b888e2",
+  "cyan":          "#4bb1a7",
+  "white":         "#a7a7a7",
+  "brightBlack":   "#5f5a60",
+  "brightRed":     "#4bb1a7",
+  "brightGreen":   "#202020",
+  "brightYellow":  "#303030",
+  "brightBlue":    "#505050",
+  "brightMagenta": "#808080",
+  "brightCyan":    "#b888e2",
+  "brightWhite":   "#ffffff"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Icy Dark",
+  "background":    "#021012",
+  "foreground":    "#095b67",
+  "black":         "#021012",
+  "red":           "#16c1d9",
+  "green":         "#4dd0e1",
+  "yellow":        "#80deea",
+  "blue":          "#00bcd4",
+  "magenta":       "#00acc1",
+  "cyan":          "#26c6da",
+  "white":         "#095b67",
+  "brightBlack":   "#052e34",
+  "brightRed":     "#16c1d9",
+  "brightGreen":   "#4dd0e1",
+  "brightYellow":  "#80deea",
+  "brightBlue":    "#00bcd4",
+  "brightMagenta": "#00acc1",
+  "brightCyan":    "#26c6da",
+  "brightWhite":   "#109cb0"
+}

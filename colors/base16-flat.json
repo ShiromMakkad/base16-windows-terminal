@@ -1,0 +1,21 @@
+{
+  "name": "Flat",
+  "background":    "#2C3E50",
+  "foreground":    "#e0e0e0",
+  "black":         "#2C3E50",
+  "red":           "#E74C3C",
+  "green":         "#2ECC71",
+  "yellow":        "#F1C40F",
+  "blue":          "#3498DB",
+  "magenta":       "#9B59B6",
+  "cyan":          "#1ABC9C",
+  "white":         "#e0e0e0",
+  "brightBlack":   "#95A5A6",
+  "brightRed":     "#E67E22",
+  "brightGreen":   "#34495E",
+  "brightYellow":  "#7F8C8D",
+  "brightBlue":    "#BDC3C7",
+  "brightMagenta": "#f5f5f5",
+  "brightCyan":    "#be643c",
+  "brightWhite":   "#ECF0F1"
+}

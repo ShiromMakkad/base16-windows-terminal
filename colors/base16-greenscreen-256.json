@@ -1,0 +1,21 @@
+{
+  "name": "Green Screen",
+  "background":    "#001100",
+  "foreground":    "#00bb00",
+  "black":         "#001100",
+  "red":           "#007700",
+  "green":         "#00bb00",
+  "yellow":        "#007700",
+  "blue":          "#009900",
+  "magenta":       "#00bb00",
+  "cyan":          "#005500",
+  "white":         "#00bb00",
+  "brightBlack":   "#007700",
+  "brightRed":     "#007700",
+  "brightGreen":   "#00bb00",
+  "brightYellow":  "#007700",
+  "brightBlue":    "#009900",
+  "brightMagenta": "#00bb00",
+  "brightCyan":    "#005500",
+  "brightWhite":   "#00ff00"
+}

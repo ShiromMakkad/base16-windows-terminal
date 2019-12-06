@@ -1,0 +1,21 @@
+{
+  "name": "Brogrammer",
+  "background":    "#1f1f1f",
+  "foreground":    "#4e5ab7",
+  "black":         "#1f1f1f",
+  "red":           "#d6dbe5",
+  "green":         "#f3bd09",
+  "yellow":        "#1dd361",
+  "blue":          "#5350b9",
+  "magenta":       "#0f7ddb",
+  "cyan":          "#1081d6",
+  "white":         "#4e5ab7",
+  "brightBlack":   "#ecba0f",
+  "brightRed":     "#d6dbe5",
+  "brightGreen":   "#f3bd09",
+  "brightYellow":  "#1dd361",
+  "brightBlue":    "#5350b9",
+  "brightMagenta": "#0f7ddb",
+  "brightCyan":    "#1081d6",
+  "brightWhite":   "#d6dbe5"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Atelier Forest",
+  "background":    "#1b1918",
+  "foreground":    "#a8a19f",
+  "black":         "#1b1918",
+  "red":           "#f22c40",
+  "green":         "#7b9726",
+  "yellow":        "#c38418",
+  "blue":          "#407ee7",
+  "magenta":       "#6666ea",
+  "cyan":          "#3d97b8",
+  "white":         "#a8a19f",
+  "brightBlack":   "#766e6b",
+  "brightRed":     "#df5320",
+  "brightGreen":   "#2c2421",
+  "brightYellow":  "#68615e",
+  "brightBlue":    "#9c9491",
+  "brightMagenta": "#e6e2e0",
+  "brightCyan":    "#c33ff3",
+  "brightWhite":   "#f1efee"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Unikitty Dark",
+  "background":    "#2e2a31",
+  "foreground":    "#bcbabe",
+  "black":         "#2e2a31",
+  "red":           "#d8137f",
+  "green":         "#17ad98",
+  "yellow":        "#dc8a0e",
+  "blue":          "#796af5",
+  "magenta":       "#bb60ea",
+  "cyan":          "#149bda",
+  "white":         "#bcbabe",
+  "brightBlack":   "#838085",
+  "brightRed":     "#d65407",
+  "brightGreen":   "#4a464d",
+  "brightYellow":  "#666369",
+  "brightBlue":    "#9f9da2",
+  "brightMagenta": "#d8d7da",
+  "brightCyan":    "#c720ca",
+  "brightWhite":   "#f5f4f7"
+}

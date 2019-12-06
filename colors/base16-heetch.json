@@ -1,0 +1,21 @@
+{
+  "name": "Heetch Dark",
+  "background":    "#190134",
+  "foreground":    "#BDB6C5",
+  "black":         "#190134",
+  "red":           "#27D9D5",
+  "green":         "#C33678",
+  "yellow":        "#8F6C97",
+  "blue":          "#BD0152",
+  "magenta":       "#82034C",
+  "cyan":          "#F80059",
+  "white":         "#BDB6C5",
+  "brightBlack":   "#7B6D8B",
+  "brightRed":     "#5BA2B6",
+  "brightGreen":   "#392551",
+  "brightYellow":  "#5A496E",
+  "brightBlue":    "#9C92A8",
+  "brightMagenta": "#DEDAE2",
+  "brightCyan":    "#470546",
+  "brightWhite":   "#FEFFFF"
+}

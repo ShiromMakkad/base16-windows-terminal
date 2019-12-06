@@ -1,0 +1,21 @@
+{
+  "name": "Shapeshifter",
+  "background":    "#f9f9f9",
+  "foreground":    "#102015",
+  "black":         "#f9f9f9",
+  "red":           "#e92f2f",
+  "green":         "#0ed839",
+  "yellow":        "#dddd13",
+  "blue":          "#3b48e3",
+  "magenta":       "#f996e2",
+  "cyan":          "#23edda",
+  "white":         "#102015",
+  "brightBlack":   "#555555",
+  "brightRed":     "#e09448",
+  "brightGreen":   "#e0e0e0",
+  "brightYellow":  "#ababab",
+  "brightBlue":    "#343434",
+  "brightMagenta": "#040404",
+  "brightCyan":    "#69542d",
+  "brightWhite":   "#000000"
+}

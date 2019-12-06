@@ -1,0 +1,21 @@
+{
+  "name": "Isotope",
+  "background":    "#000000",
+  "foreground":    "#d0d0d0",
+  "black":         "#000000",
+  "red":           "#ff0000",
+  "green":         "#33ff00",
+  "yellow":        "#ff0099",
+  "blue":          "#0066ff",
+  "magenta":       "#cc00ff",
+  "cyan":          "#00ffff",
+  "white":         "#d0d0d0",
+  "brightBlack":   "#808080",
+  "brightRed":     "#ff9900",
+  "brightGreen":   "#404040",
+  "brightYellow":  "#606060",
+  "brightBlue":    "#c0c0c0",
+  "brightMagenta": "#e0e0e0",
+  "brightCyan":    "#3300ff",
+  "brightWhite":   "#ffffff"
+}

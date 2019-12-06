@@ -1,0 +1,21 @@
+{
+  "name": "Tomorrow Night",
+  "background":    "#2d2d2d",
+  "foreground":    "#cccccc",
+  "black":         "#2d2d2d",
+  "red":           "#f2777a",
+  "green":         "#99cc99",
+  "yellow":        "#ffcc66",
+  "blue":          "#6699cc",
+  "magenta":       "#cc99cc",
+  "cyan":          "#66cccc",
+  "white":         "#cccccc",
+  "brightBlack":   "#999999",
+  "brightRed":     "#f2777a",
+  "brightGreen":   "#99cc99",
+  "brightYellow":  "#ffcc66",
+  "brightBlue":    "#6699cc",
+  "brightMagenta": "#cc99cc",
+  "brightCyan":    "#66cccc",
+  "brightWhite":   "#ffffff"
+}

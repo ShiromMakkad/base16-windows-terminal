@@ -1,0 +1,21 @@
+{
+  "name": "Eighties",
+  "background":    "#2d2d2d",
+  "foreground":    "#d3d0c8",
+  "black":         "#2d2d2d",
+  "red":           "#f2777a",
+  "green":         "#99cc99",
+  "yellow":        "#ffcc66",
+  "blue":          "#6699cc",
+  "magenta":       "#cc99cc",
+  "cyan":          "#66cccc",
+  "white":         "#d3d0c8",
+  "brightBlack":   "#747369",
+  "brightRed":     "#f99157",
+  "brightGreen":   "#393939",
+  "brightYellow":  "#515151",
+  "brightBlue":    "#a09f93",
+  "brightMagenta": "#e8e6df",
+  "brightCyan":    "#d27b53",
+  "brightWhite":   "#f2f0ec"
+}

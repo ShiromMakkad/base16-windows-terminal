@@ -1,0 +1,21 @@
+{
+  "name": "Darktooth",
+  "background":    "#1D2021",
+  "foreground":    "#A89984",
+  "black":         "#1D2021",
+  "red":           "#FB543F",
+  "green":         "#95C085",
+  "yellow":        "#FAC03B",
+  "blue":          "#0D6678",
+  "magenta":       "#8F4673",
+  "cyan":          "#8BA59B",
+  "white":         "#A89984",
+  "brightBlack":   "#665C54",
+  "brightRed":     "#FB543F",
+  "brightGreen":   "#95C085",
+  "brightYellow":  "#FAC03B",
+  "brightBlue":    "#0D6678",
+  "brightMagenta": "#8F4673",
+  "brightCyan":    "#8BA59B",
+  "brightWhite":   "#FDF4C1"
+}

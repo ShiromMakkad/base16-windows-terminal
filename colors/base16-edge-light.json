@@ -1,0 +1,21 @@
+{
+  "name": "Edge Light",
+  "background":    "#fafafa",
+  "foreground":    "#5e646f",
+  "black":         "#fafafa",
+  "red":           "#db7070",
+  "green":         "#7c9f4b",
+  "yellow":        "#d69822",
+  "blue":          "#6587bf",
+  "magenta":       "#b870ce",
+  "cyan":          "#509c93",
+  "white":         "#5e646f",
+  "brightBlack":   "#5e646f",
+  "brightRed":     "#db7070",
+  "brightGreen":   "#7c9f4b",
+  "brightYellow":  "#d69822",
+  "brightBlue":    "#6587bf",
+  "brightMagenta": "#b870ce",
+  "brightCyan":    "#509c93",
+  "brightWhite":   "#5e646f"
+}

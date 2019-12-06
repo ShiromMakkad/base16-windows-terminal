@@ -1,0 +1,21 @@
+{
+  "name": "Mocha",
+  "background":    "#3B3228",
+  "foreground":    "#d0c8c6",
+  "black":         "#3B3228",
+  "red":           "#cb6077",
+  "green":         "#beb55b",
+  "yellow":        "#f4bc87",
+  "blue":          "#8ab3b5",
+  "magenta":       "#a89bb9",
+  "cyan":          "#7bbda4",
+  "white":         "#d0c8c6",
+  "brightBlack":   "#7e705a",
+  "brightRed":     "#d28b71",
+  "brightGreen":   "#534636",
+  "brightYellow":  "#645240",
+  "brightBlue":    "#b8afad",
+  "brightMagenta": "#e9e1dd",
+  "brightCyan":    "#bb9584",
+  "brightWhite":   "#f5eeeb"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Material",
+  "background":    "#263238",
+  "foreground":    "#EEFFFF",
+  "black":         "#263238",
+  "red":           "#F07178",
+  "green":         "#C3E88D",
+  "yellow":        "#FFCB6B",
+  "blue":          "#82AAFF",
+  "magenta":       "#C792EA",
+  "cyan":          "#89DDFF",
+  "white":         "#EEFFFF",
+  "brightBlack":   "#546E7A",
+  "brightRed":     "#F78C6C",
+  "brightGreen":   "#2E3C43",
+  "brightYellow":  "#314549",
+  "brightBlue":    "#B2CCD6",
+  "brightMagenta": "#EEFFFF",
+  "brightCyan":    "#FF5370",
+  "brightWhite":   "#FFFFFF"
+}

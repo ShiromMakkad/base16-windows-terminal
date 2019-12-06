@@ -1,0 +1,21 @@
+{
+  "name": "Atelier Sulphurpool Light",
+  "background":    "#f5f7ff",
+  "foreground":    "#5e6687",
+  "black":         "#f5f7ff",
+  "red":           "#c94922",
+  "green":         "#ac9739",
+  "yellow":        "#c08b30",
+  "blue":          "#3d8fd1",
+  "magenta":       "#6679cc",
+  "cyan":          "#22a2c9",
+  "white":         "#5e6687",
+  "brightBlack":   "#898ea4",
+  "brightRed":     "#c76b29",
+  "brightGreen":   "#dfe2f1",
+  "brightYellow":  "#979db4",
+  "brightBlue":    "#6b7394",
+  "brightMagenta": "#293256",
+  "brightCyan":    "#9c637a",
+  "brightWhite":   "#202746"
+}

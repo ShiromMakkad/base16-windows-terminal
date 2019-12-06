@@ -1,0 +1,21 @@
+{
+  "name": "Framer",
+  "background":    "#181818",
+  "foreground":    "#D0D0D0",
+  "black":         "#181818",
+  "red":           "#FD886B",
+  "green":         "#32CCDC",
+  "yellow":        "#FECB6E",
+  "blue":          "#20BCFC",
+  "magenta":       "#BA8CFC",
+  "cyan":          "#ACDDFD",
+  "white":         "#D0D0D0",
+  "brightBlack":   "#747474",
+  "brightRed":     "#FC4769",
+  "brightGreen":   "#151515",
+  "brightYellow":  "#464646",
+  "brightBlue":    "#B9B9B9",
+  "brightMagenta": "#E8E8E8",
+  "brightCyan":    "#B15F4A",
+  "brightWhite":   "#EEEEEE"
+}

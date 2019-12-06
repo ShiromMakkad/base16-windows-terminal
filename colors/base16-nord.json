@@ -1,0 +1,21 @@
+{
+  "name": "Nord",
+  "background":    "#2E3440",
+  "foreground":    "#E5E9F0",
+  "black":         "#2E3440",
+  "red":           "#88C0D0",
+  "green":         "#BF616A",
+  "yellow":        "#5E81AC",
+  "blue":          "#EBCB8B",
+  "magenta":       "#A3BE8C",
+  "cyan":          "#D08770",
+  "white":         "#E5E9F0",
+  "brightBlack":   "#4C566A",
+  "brightRed":     "#81A1C1",
+  "brightGreen":   "#3B4252",
+  "brightYellow":  "#434C5E",
+  "brightBlue":    "#D8DEE9",
+  "brightMagenta": "#ECEFF4",
+  "brightCyan":    "#B48EAD",
+  "brightWhite":   "#8FBCBB"
+}

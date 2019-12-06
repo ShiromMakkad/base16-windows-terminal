@@ -1,0 +1,21 @@
+{
+  "name": "IR Black",
+  "background":    "#000000",
+  "foreground":    "#b5b3aa",
+  "black":         "#000000",
+  "red":           "#ff6c60",
+  "green":         "#a8ff60",
+  "yellow":        "#ffffb6",
+  "blue":          "#96cbfe",
+  "magenta":       "#ff73fd",
+  "cyan":          "#c6c5fe",
+  "white":         "#b5b3aa",
+  "brightBlack":   "#6c6c66",
+  "brightRed":     "#ff6c60",
+  "brightGreen":   "#a8ff60",
+  "brightYellow":  "#ffffb6",
+  "brightBlue":    "#96cbfe",
+  "brightMagenta": "#ff73fd",
+  "brightCyan":    "#c6c5fe",
+  "brightWhite":   "#fdfbee"
+}

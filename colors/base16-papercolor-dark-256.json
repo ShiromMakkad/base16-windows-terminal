@@ -1,0 +1,21 @@
+{
+  "name": "PaperColor Dark",
+  "background":    "#1c1c1c",
+  "foreground":    "#808080",
+  "black":         "#1c1c1c",
+  "red":           "#585858",
+  "green":         "#af87d7",
+  "yellow":        "#afd700",
+  "blue":          "#ff5faf",
+  "magenta":       "#00afaf",
+  "cyan":          "#ffaf00",
+  "white":         "#808080",
+  "brightBlack":   "#d7af5f",
+  "brightRed":     "#585858",
+  "brightGreen":   "#af87d7",
+  "brightYellow":  "#afd700",
+  "brightBlue":    "#ff5faf",
+  "brightMagenta": "#00afaf",
+  "brightCyan":    "#ffaf00",
+  "brightWhite":   "#d0d0d0"
+}

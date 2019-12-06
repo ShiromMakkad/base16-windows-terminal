@@ -1,0 +1,21 @@
+{
+  "name": "Woodland",
+  "background":    "#231e18",
+  "foreground":    "#cabcb1",
+  "black":         "#231e18",
+  "red":           "#d35c5c",
+  "green":         "#b7ba53",
+  "yellow":        "#e0ac16",
+  "blue":          "#88a4d3",
+  "magenta":       "#bb90e2",
+  "cyan":          "#6eb958",
+  "white":         "#cabcb1",
+  "brightBlack":   "#9d8b70",
+  "brightRed":     "#ca7f32",
+  "brightGreen":   "#302b25",
+  "brightYellow":  "#48413a",
+  "brightBlue":    "#b4a490",
+  "brightMagenta": "#d7c8bc",
+  "brightCyan":    "#b49368",
+  "brightWhite":   "#e4d4c8"
+}

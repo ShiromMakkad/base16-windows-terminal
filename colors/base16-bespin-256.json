@@ -1,0 +1,21 @@
+{
+  "name": "Bespin",
+  "background":    "#28211c",
+  "foreground":    "#8a8986",
+  "black":         "#28211c",
+  "red":           "#cf6a4c",
+  "green":         "#54be0d",
+  "yellow":        "#f9ee98",
+  "blue":          "#5ea6ea",
+  "magenta":       "#9b859d",
+  "cyan":          "#afc4db",
+  "white":         "#8a8986",
+  "brightBlack":   "#666666",
+  "brightRed":     "#cf6a4c",
+  "brightGreen":   "#54be0d",
+  "brightYellow":  "#f9ee98",
+  "brightBlue":    "#5ea6ea",
+  "brightMagenta": "#9b859d",
+  "brightCyan":    "#afc4db",
+  "brightWhite":   "#baae9e"
+}

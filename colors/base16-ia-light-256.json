@@ -1,0 +1,21 @@
+{
+  "name": "iA Light",
+  "background":    "#f6f6f6",
+  "foreground":    "#181818",
+  "black":         "#f6f6f6",
+  "red":           "#9c5a02",
+  "green":         "#38781c",
+  "yellow":        "#c48218",
+  "blue":          "#48bac2",
+  "magenta":       "#a94598",
+  "cyan":          "#2d6bb1",
+  "white":         "#181818",
+  "brightBlack":   "#898989",
+  "brightRed":     "#9c5a02",
+  "brightGreen":   "#38781c",
+  "brightYellow":  "#c48218",
+  "brightBlue":    "#48bac2",
+  "brightMagenta": "#a94598",
+  "brightCyan":    "#2d6bb1",
+  "brightWhite":   "#f8f8f8"
+}

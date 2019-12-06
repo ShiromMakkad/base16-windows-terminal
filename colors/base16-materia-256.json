@@ -1,0 +1,21 @@
+{
+  "name": "Materia",
+  "background":    "#263238",
+  "foreground":    "#CDD3DE",
+  "black":         "#263238",
+  "red":           "#EC5F67",
+  "green":         "#8BD649",
+  "yellow":        "#FFCC00",
+  "blue":          "#89DDFF",
+  "magenta":       "#82AAFF",
+  "cyan":          "#80CBC4",
+  "white":         "#CDD3DE",
+  "brightBlack":   "#707880",
+  "brightRed":     "#EC5F67",
+  "brightGreen":   "#8BD649",
+  "brightYellow":  "#FFCC00",
+  "brightBlue":    "#89DDFF",
+  "brightMagenta": "#82AAFF",
+  "brightCyan":    "#80CBC4",
+  "brightWhite":   "#FFFFFF"
+}

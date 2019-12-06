@@ -1,0 +1,21 @@
+{
+  "name": "Unikitty Light",
+  "background":    "#ffffff",
+  "foreground":    "#6c696e",
+  "black":         "#ffffff",
+  "red":           "#d8137f",
+  "green":         "#17ad98",
+  "yellow":        "#dc8a0e",
+  "blue":          "#775dff",
+  "magenta":       "#aa17e6",
+  "cyan":          "#149bda",
+  "white":         "#6c696e",
+  "brightBlack":   "#a7a5a8",
+  "brightRed":     "#d8137f",
+  "brightGreen":   "#17ad98",
+  "brightYellow":  "#dc8a0e",
+  "brightBlue":    "#775dff",
+  "brightMagenta": "#aa17e6",
+  "brightCyan":    "#149bda",
+  "brightWhite":   "#322d34"
+}

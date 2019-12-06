@@ -1,0 +1,21 @@
+{
+  "name": "Summerfruit Light",
+  "background":    "#FFFFFF",
+  "foreground":    "#101010",
+  "black":         "#FFFFFF",
+  "red":           "#FF0086",
+  "green":         "#00C918",
+  "yellow":        "#ABA800",
+  "blue":          "#3777E6",
+  "magenta":       "#AD00A1",
+  "cyan":          "#1FAAAA",
+  "white":         "#101010",
+  "brightBlack":   "#B0B0B0",
+  "brightRed":     "#FF0086",
+  "brightGreen":   "#00C918",
+  "brightYellow":  "#ABA800",
+  "brightBlue":    "#3777E6",
+  "brightMagenta": "#AD00A1",
+  "brightCyan":    "#1FAAAA",
+  "brightWhite":   "#202020"
+}

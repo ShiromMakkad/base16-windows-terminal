@@ -1,0 +1,21 @@
+{
+  "name": "Classic Light",
+  "background":    "#F5F5F5",
+  "foreground":    "#303030",
+  "black":         "#F5F5F5",
+  "red":           "#AC4142",
+  "green":         "#90A959",
+  "yellow":        "#F4BF75",
+  "blue":          "#6A9FB5",
+  "magenta":       "#AA759F",
+  "cyan":          "#75B5AA",
+  "white":         "#303030",
+  "brightBlack":   "#B0B0B0",
+  "brightRed":     "#AC4142",
+  "brightGreen":   "#90A959",
+  "brightYellow":  "#F4BF75",
+  "brightBlue":    "#6A9FB5",
+  "brightMagenta": "#AA759F",
+  "brightCyan":    "#75B5AA",
+  "brightWhite":   "#151515"
+}

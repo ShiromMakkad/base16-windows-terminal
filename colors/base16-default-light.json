@@ -1,0 +1,21 @@
+{
+  "name": "Default Light",
+  "background":    "#f8f8f8",
+  "foreground":    "#383838",
+  "black":         "#f8f8f8",
+  "red":           "#ab4642",
+  "green":         "#a1b56c",
+  "yellow":        "#f7ca88",
+  "blue":          "#7cafc2",
+  "magenta":       "#ba8baf",
+  "cyan":          "#86c1b9",
+  "white":         "#383838",
+  "brightBlack":   "#b8b8b8",
+  "brightRed":     "#dc9656",
+  "brightGreen":   "#e8e8e8",
+  "brightYellow":  "#d8d8d8",
+  "brightBlue":    "#585858",
+  "brightMagenta": "#282828",
+  "brightCyan":    "#a16946",
+  "brightWhite":   "#181818"
+}

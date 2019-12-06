@@ -1,0 +1,21 @@
+{
+  "name": "Cupcake",
+  "background":    "#fbf1f2",
+  "foreground":    "#8b8198",
+  "black":         "#fbf1f2",
+  "red":           "#D57E85",
+  "green":         "#A3B367",
+  "yellow":        "#DCB16C",
+  "blue":          "#7297B9",
+  "magenta":       "#BB99B4",
+  "cyan":          "#69A9A7",
+  "white":         "#8b8198",
+  "brightBlack":   "#bfb9c6",
+  "brightRed":     "#D57E85",
+  "brightGreen":   "#A3B367",
+  "brightYellow":  "#DCB16C",
+  "brightBlue":    "#7297B9",
+  "brightMagenta": "#BB99B4",
+  "brightCyan":    "#69A9A7",
+  "brightWhite":   "#585062"
+}
