@@ -1,3 +1,5 @@
+// Base 16 OceanicNext Color Configuration - Windows Terminal
+// Colors made by https://github.com/voronianski/oceanic-next-color-scheme
 {
   "name": "OceanicNext",
   "background":    "#1B2B34",

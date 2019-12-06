@@ -1,3 +1,5 @@
+// Base 16 London Tube 256 Color Configuration - Windows Terminal
+// Colors made by Jan T. Sott
 {
   "name": "London Tube",
   "background":    "#231f20",

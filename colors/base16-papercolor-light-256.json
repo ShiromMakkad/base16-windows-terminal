@@ -1,3 +1,5 @@
+// Base 16 PaperColor Light 256 Color Configuration - Windows Terminal
+// Colors made by Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
 {
   "name": "PaperColor Light",
   "background":    "#eeeeee",

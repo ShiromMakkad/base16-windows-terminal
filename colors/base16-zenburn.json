@@ -1,3 +1,5 @@
+// Base 16 Zenburn Color Configuration - Windows Terminal
+// Colors made by elnawe
 {
   "name": "Zenburn",
   "background":    "#383838",

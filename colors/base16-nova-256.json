@@ -1,3 +1,5 @@
+// Base 16 Nova 256 Color Configuration - Windows Terminal
+// Colors made by George Essig (https://github.com/gessig), Trevor D. Miller (https://trevordmiller.com)
 {
   "name": "Nova",
   "background":    "#3C4C55",

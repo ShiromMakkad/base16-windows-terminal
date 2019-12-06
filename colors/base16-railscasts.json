@@ -1,3 +1,5 @@
+// Base 16 Railscasts Color Configuration - Windows Terminal
+// Colors made by Ryan Bates (http://railscasts.com)
 {
   "name": "Railscasts",
   "background":    "#2b2b2b",

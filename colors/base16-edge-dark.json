@@ -1,3 +1,5 @@
+// Base 16 Edge Dark Color Configuration - Windows Terminal
+// Colors made by Sainnhepark (https://github.com/sainnhe)
 {
   "name": "Edge Dark",
   "background":    "#262729",

@@ -1,3 +1,5 @@
+// Base 16 Cupcake 256 Color Configuration - Windows Terminal
+// Colors made by Chris Kempson (http://chriskempson.com)
 {
   "name": "Cupcake",
   "background":    "#fbf1f2",

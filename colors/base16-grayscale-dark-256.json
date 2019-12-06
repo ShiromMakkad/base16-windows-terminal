@@ -1,3 +1,5 @@
+// Base 16 Grayscale Dark 256 Color Configuration - Windows Terminal
+// Colors made by Alexandre Gavioli (https://github.com/Alexx2/)
 {
   "name": "Grayscale Dark",
   "background":    "#101010",

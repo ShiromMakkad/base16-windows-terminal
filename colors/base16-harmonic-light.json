@@ -1,3 +1,5 @@
+// Base 16 Harmonic16 Light Color Configuration - Windows Terminal
+// Colors made by Jannik Siebert (https://github.com/janniks)
 {
   "name": "Harmonic16 Light",
   "background":    "#f7f9fb",

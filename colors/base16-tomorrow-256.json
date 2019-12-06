@@ -1,3 +1,5 @@
+// Base 16 Tomorrow 256 Color Configuration - Windows Terminal
+// Colors made by Chris Kempson (http://chriskempson.com)
 {
   "name": "Tomorrow",
   "background":    "#ffffff",

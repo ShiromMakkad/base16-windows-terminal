@@ -1,3 +1,5 @@
+// Base 16 Atlas 256 Color Configuration - Windows Terminal
+// Colors made by Alex Lende (https://ajlende.com)
 {
   "name": "Atlas",
   "background":    "#002635",

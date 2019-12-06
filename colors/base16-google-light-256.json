@@ -1,3 +1,5 @@
+// Base 16 Google Light 256 Color Configuration - Windows Terminal
+// Colors made by Seth Wright (http://sethawright.com)
 {
   "name": "Google Light",
   "background":    "#ffffff",

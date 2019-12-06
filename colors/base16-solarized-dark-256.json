@@ -1,3 +1,5 @@
+// Base 16 Solarized Dark 256 Color Configuration - Windows Terminal
+// Colors made by Ethan Schoonover (modified by aramisgithub)
 {
   "name": "Solarized Dark",
   "background":    "#002b36",

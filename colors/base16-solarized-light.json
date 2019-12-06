@@ -1,3 +1,5 @@
+// Base 16 Solarized Light Color Configuration - Windows Terminal
+// Colors made by Ethan Schoonover (modified by aramisgithub)
 {
   "name": "Solarized Light",
   "background":    "#fdf6e3",

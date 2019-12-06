@@ -1,3 +1,5 @@
+// Base 16 Apathy Color Configuration - Windows Terminal
+// Colors made by Jannik Siebert (https://github.com/janniks)
 {
   "name": "Apathy",
   "background":    "#031A16",

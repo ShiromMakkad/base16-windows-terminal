@@ -1,3 +1,5 @@
+// Base 16 Decaf Color Configuration - Windows Terminal
+// Colors made by Alex Mirrington (https://github.com/alexmirrington)
 {
   "name": "Decaf",
   "background":    "#2d2d2d",
