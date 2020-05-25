@@ -50,7 +50,7 @@ Here's an example profiles.json:
         "green":         "#a6e22e",
         "yellow":        "#f4bf75",
         "blue":          "#66d9ef",
-        "magenta":       "#ae81ff",
+        "purple":       "#ae81ff",
         "cyan":          "#a1efe4",
         "white":         "#f8f8f2",
         "brightBlack":   "#75715e",
@@ -58,7 +58,7 @@ Here's an example profiles.json:
         "brightGreen":   "#383830",
         "brightYellow":  "#49483e",
         "brightBlue":    "#a59f85",
-        "brightMagenta": "#f5f4f1",
+        "brightPurple": "#f5f4f1",
         "brightCyan":    "#cc6633",
         "brightWhite":   "#f9f8f5"
       }
