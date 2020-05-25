@@ -1,0 +1,23 @@
+// Base 16 darkmoss 256 Color Configuration - Windows Terminal
+// Colors made by Gabriel Avanzi (https://github.com/avanzzzi)
+{
+  "name": "darkmoss",
+  "background":    "#171e1f",
+  "foreground":    "#c7c7a5",
+  "black":         "#171e1f",
+  "red":           "#ff4658",
+  "green":         "#499180",
+  "yellow":        "#fdb11f",
+  "blue":          "#498091",
+  "purple":        "#9bc0c8",
+  "cyan":          "#66d9ef",
+  "white":         "#c7c7a5",
+  "brightBlack":   "#555e5f",
+  "brightRed":     "#ff4658",
+  "brightGreen":   "#499180",
+  "brightYellow":  "#fdb11f",
+  "brightBlue":    "#498091",
+  "brightPurple":  "#9bc0c8",
+  "brightCyan":    "#66d9ef",
+  "brightWhite":   "#e1eaef"
+}

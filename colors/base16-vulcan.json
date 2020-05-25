@@ -1,0 +1,23 @@
+// Base 16 vulcan Color Configuration - Windows Terminal
+// Colors made by Andrey Varfolomeev
+{
+  "name": "vulcan",
+  "background":    "#041523",
+  "foreground":    "#5b778c",
+  "black":         "#041523",
+  "red":           "#818591",
+  "green":         "#977d7c",
+  "yellow":        "#adb4b9",
+  "blue":          "#977d7c",
+  "purple":        "#9198a3",
+  "cyan":          "#977d7c",
+  "white":         "#5b778c",
+  "brightBlack":   "#7a5759",
+  "brightRed":     "#9198a3",
+  "brightGreen":   "#122339",
+  "brightYellow":  "#003552",
+  "brightBlue":    "#6b6977",
+  "brightPurple":  "#333238",
+  "brightCyan":    "#977d7c",
+  "brightWhite":   "#214d68"
+}

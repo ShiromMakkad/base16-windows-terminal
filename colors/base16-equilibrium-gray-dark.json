@@ -1,0 +1,23 @@
+// Base 16 Equilibrium Gray Dark Color Configuration - Windows Terminal
+// Colors made by Carlo Abelli
+{
+  "name": "Equilibrium Gray Dark",
+  "background":    "#111111",
+  "foreground":    "#ababab",
+  "black":         "#111111",
+  "red":           "#f04339",
+  "green":         "#7f8b00",
+  "yellow":        "#bb8801",
+  "blue":          "#008dd1",
+  "purple":        "#6a7fd2",
+  "cyan":          "#00948b",
+  "white":         "#ababab",
+  "brightBlack":   "#777777",
+  "brightRed":     "#df5923",
+  "brightGreen":   "#1b1b1b",
+  "brightYellow":  "#262626",
+  "brightBlue":    "#919191",
+  "brightPurple":  "#c6c6c6",
+  "brightCyan":    "#e3488e",
+  "brightWhite":   "#e2e2e2"
+}

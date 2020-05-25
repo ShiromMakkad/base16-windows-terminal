@@ -1,5 +1,5 @@
 // Base 16 Edge Light Color Configuration - Windows Terminal
-// Colors made by Sainnhepark (https://github.com/sainnhe)
+// Colors made by cjayross (https://github.com/cjayross)
 {
   "name": "Edge Light",
   "background":    "#fafafa",
@@ -9,7 +9,7 @@
   "green":         "#7c9f4b",
   "yellow":        "#d69822",
   "blue":          "#6587bf",
-  "magenta":       "#b870ce",
+  "purple":        "#b870ce",
   "cyan":          "#509c93",
   "white":         "#5e646f",
   "brightBlack":   "#5e646f",
@@ -17,7 +17,7 @@
   "brightGreen":   "#7c9f4b",
   "brightYellow":  "#d69822",
   "brightBlue":    "#6587bf",
-  "brightMagenta": "#b870ce",
+  "brightPurple":  "#b870ce",
   "brightCyan":    "#509c93",
   "brightWhite":   "#5e646f"
 }

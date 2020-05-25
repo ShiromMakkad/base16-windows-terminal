@@ -1,0 +1,23 @@
+// Base 16 summercamp 256 Color Configuration - Windows Terminal
+// Colors made by zoe firi (zoefiri.github.io)
+{
+  "name": "summercamp",
+  "background":    "#1c1810",
+  "foreground":    "#736e55",
+  "black":         "#1c1810",
+  "red":           "#e35142",
+  "green":         "#5ceb5a",
+  "yellow":        "#f2ff27",
+  "blue":          "#489bf0",
+  "purple":        "#FF8080",
+  "cyan":          "#5aebbc",
+  "white":         "#736e55",
+  "brightBlack":   "#504b38",
+  "brightRed":     "#e35142",
+  "brightGreen":   "#5ceb5a",
+  "brightYellow":  "#f2ff27",
+  "brightBlue":    "#489bf0",
+  "brightPurple":  "#FF8080",
+  "brightCyan":    "#5aebbc",
+  "brightWhite":   "#f8f5de"
+}

@@ -1,0 +1,23 @@
+// Base 16 Humanoid dark Color Configuration - Windows Terminal
+// Colors made by Thomas (tasmo) Friese
+{
+  "name": "Humanoid dark",
+  "background":    "#232629",
+  "foreground":    "#f8f8f2",
+  "black":         "#232629",
+  "red":           "#f11235",
+  "green":         "#02d849",
+  "yellow":        "#ffb627",
+  "blue":          "#00a6fb",
+  "purple":        "#f15ee3",
+  "cyan":          "#0dd9d6",
+  "white":         "#f8f8f2",
+  "brightBlack":   "#60615d",
+  "brightRed":     "#ff9505",
+  "brightGreen":   "#333b3d",
+  "brightYellow":  "#484e54",
+  "brightBlue":    "#c0c0bd",
+  "brightPurple":  "#fcfcf6",
+  "brightCyan":    "#b27701",
+  "brightWhite":   "#fcfcfc"
+}

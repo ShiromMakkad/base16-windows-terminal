@@ -1,0 +1,23 @@
+// Base 16 dirtysea 256 Color Configuration - Windows Terminal
+// Colors made by Kahlil (Kal) Hodgson
+{
+  "name": "dirtysea",
+  "background":    "#e0e0e0",
+  "foreground":    "#000000",
+  "black":         "#e0e0e0",
+  "red":           "#000090",
+  "green":         "#730073",
+  "yellow":        "#006565",
+  "blue":          "#007300",
+  "purple":        "#840000",
+  "cyan":          "#755B00",
+  "white":         "#000000",
+  "brightBlack":   "#707070",
+  "brightRed":     "#000090",
+  "brightGreen":   "#730073",
+  "brightYellow":  "#006565",
+  "brightBlue":    "#007300",
+  "brightPurple":  "#840000",
+  "brightCyan":    "#755B00",
+  "brightWhite":   "#c4d9c4"
+}

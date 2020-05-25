@@ -1,0 +1,23 @@
+// Base 16 Equilibrium Dark 256 Color Configuration - Windows Terminal
+// Colors made by Carlo Abelli
+{
+  "name": "Equilibrium Dark",
+  "background":    "#0c1118",
+  "foreground":    "#afaba2",
+  "black":         "#0c1118",
+  "red":           "#f04339",
+  "green":         "#7f8b00",
+  "yellow":        "#bb8801",
+  "blue":          "#008dd1",
+  "purple":        "#6a7fd2",
+  "cyan":          "#00948b",
+  "white":         "#afaba2",
+  "brightBlack":   "#7b776e",
+  "brightRed":     "#f04339",
+  "brightGreen":   "#7f8b00",
+  "brightYellow":  "#bb8801",
+  "brightBlue":    "#008dd1",
+  "brightPurple":  "#6a7fd2",
+  "brightCyan":    "#00948b",
+  "brightWhite":   "#e7e2d9"
+}

@@ -9,7 +9,7 @@
   "green":         "#ebff87",
   "yellow":        "#00f769",
   "blue":          "#62d6e8",
-  "magenta":       "#b45bcf",
+  "purple":        "#b45bcf",
   "cyan":          "#a1efe4",
   "white":         "#e9e9f4",
   "brightBlack":   "#626483",
@@ -17,7 +17,7 @@
   "brightGreen":   "#3a3c4e",
   "brightYellow":  "#4d4f68",
   "brightBlue":    "#62d6e8",
-  "brightMagenta": "#f1f2f8",
+  "brightPurple":  "#f1f2f8",
   "brightCyan":    "#00f769",
   "brightWhite":   "#f7f7fb"
 }
